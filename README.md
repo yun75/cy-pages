@@ -1,4 +1,4 @@
-# cy-pages
+# cyun-pages
 
 [![Build Status][travis-image]][travis-url]
 [![NPM Downloads][downloads-image]][downloads-url]
@@ -13,10 +13,10 @@
 ## Installation
 
 ```shell
-$ npm install cy-pages
+$ npm install cyun-pages
 
 # or yarn
-$ yarn add cy-pages
+$ yarn add cyun-pages
 ```
 
 ## Usage
@@ -24,8 +24,8 @@ $ yarn add cy-pages
 <!-- TODO: Introduction of API use -->
 
 ```javascript
-const cyPages = require('cy-pages')
-const result = cyPages('zce')
+const cyunPages = require('cyun-pages')
+const result = cyunPages('zce')
 // result => 'zce@zce.me'
 ```
 
@@ -33,7 +33,7 @@ const result = cyPages('zce')
 
 <!-- TODO: Introduction of API -->
 
-### cyPages(name[, options])
+### cyunPages(name[, options])
 
 #### name
 
@@ -65,17 +65,17 @@ const result = cyPages('zce')
 
 
 
-[travis-image]: https://img.shields.io/travis/yun75/cy-pages/master.svg
-[travis-url]: https://travis-ci.org/yun75/cy-pages
-[downloads-image]: https://img.shields.io/npm/dm/cy-pages.svg
-[downloads-url]: https://npmjs.org/package/cy-pages
-[version-image]: https://img.shields.io/npm/v/cy-pages.svg
-[version-url]: https://npmjs.org/package/cy-pages
-[license-image]: https://img.shields.io/github/license/yun75/cy-pages.svg
-[license-url]: https://github.com/yun75/cy-pages/blob/master/LICENSE
-[dependency-image]: https://img.shields.io/david/yun75/cy-pages.svg
-[dependency-url]: https://david-dm.org/yun75/cy-pages
-[devdependency-image]: https://img.shields.io/david/dev/yun75/cy-pages.svg
-[devdependency-url]: https://david-dm.org/yun75/cy-pages?type=dev
+[travis-image]: https://img.shields.io/travis/yun75/cyun-pages/master.svg
+[travis-url]: https://travis-ci.org/yun75/cyun-pages
+[downloads-image]: https://img.shields.io/npm/dm/cyun-pages.svg
+[downloads-url]: https://npmjs.org/package/cyun-pages
+[version-image]: https://img.shields.io/npm/v/cyun-pages.svg
+[version-url]: https://npmjs.org/package/cyun-pages
+[license-image]: https://img.shields.io/github/license/yun75/cyun-pages.svg
+[license-url]: https://github.com/yun75/cyun-pages/blob/master/LICENSE
+[dependency-image]: https://img.shields.io/david/yun75/cyun-pages.svg
+[dependency-url]: https://david-dm.org/yun75/cyun-pages
+[devdependency-image]: https://img.shields.io/david/dev/yun75/cyun-pages.svg
+[devdependency-url]: https://david-dm.org/yun75/cyun-pages?type=dev
 [style-image]: https://img.shields.io/badge/code_style-standard-brightgreen.svg
 [style-url]: https://standardjs.com

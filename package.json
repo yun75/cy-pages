@@ -1,14 +1,14 @@
 {
-  "name": "cy-pages",
-  "version": "0.1.0",
+  "name": "cyun-pages",
+  "version": "0.2.0",
   "description": "static web app workflow",
   "keywords": [
-    "cy-pages",
+    "cyun-pages",
     "zce"
   ],
-  "homepage": "https://github.com/yun75/cy-pages#readme",
+  "homepage": "https://github.com/yun75/cyun-pages#readme",
   "bugs": {
-    "url": "https://github.com/yun75/cy-pages/issues"
+    "url": "https://github.com/yun75/cyun-pages/issues"
   },
   "license": "MIT",
   "author": "",
@@ -17,14 +17,14 @@
     "bin"
   ],
   "main": "lib/index.js",
-  "bin": "bin/cy-pages.js",
+  "bin": "bin/cyun-pages.js",
   "directories": {
     "lib": "lib",
     "test": "test"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yun75/cy-pages.git"
+    "url": "git+https://github.com/yun75/cyun-pages.git"
   },
   "scripts": {
     "lint": "standard --fix",
